@@ -14,11 +14,11 @@ author: Deep Nguyen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Giới thiệu: "aboutme"
+  Dự án:
+    - World Atlas of Coffee: "https://fin.cafe/index.php/coffee-atlas/"
+    - Amigo Café: "https://amigosaigon.com/"
+  Liên hệ: "lienhe"
 
 # --- Logo --- #
 
